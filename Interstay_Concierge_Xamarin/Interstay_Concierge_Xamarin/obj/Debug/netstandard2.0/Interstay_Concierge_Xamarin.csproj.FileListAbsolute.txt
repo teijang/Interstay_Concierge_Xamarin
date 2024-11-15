@@ -1,0 +1,38 @@
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\Interstay_Concierge_Xamarin.deps.json
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\Interstay_Concierge_Xamarin.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\ref\Interstay_Concierge_Xamarin.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\Interstay_Concierge_Xamarin.pdb
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.csprojAssemblyReference.cache
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.AssemblyInfoInputs.cache
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.AssemblyInfo.cs
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.csproj.CoreCompileInputs.cache
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\ref\Interstay_Concierge_Xamarin.dll
+C:\Users\soowo\OneDrive - Interstay\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.pdb
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\Interstay_Concierge_Xamarin.deps.json
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\Interstay_Concierge_Xamarin.dll
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\ref\Interstay_Concierge_Xamarin.dll
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\bin\Debug\netstandard2.0\Interstay_Concierge_Xamarin.pdb
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.AssemblyInfoInputs.cache
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.AssemblyInfo.cs
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.csproj.CoreCompileInputs.cache
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.dll
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\ref\Interstay_Concierge_Xamarin.dll
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.pdb
+C:\Projects\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\Interstay_Concierge_Xamarin\obj\Debug\netstandard2.0\Interstay_Concierge_Xamarin.csprojAssemblyReference.cache
